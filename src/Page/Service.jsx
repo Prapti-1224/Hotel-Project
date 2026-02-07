@@ -1,10 +1,10 @@
 import React from "react";
-import RoomSuite from "../Component/RoomSuite";
+import Service from "../Component/Service";
 
 function About() {
   return (
     <div>
-      <Dining />
+      <Service />
     </div>
   );
 }

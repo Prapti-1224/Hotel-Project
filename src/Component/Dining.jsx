@@ -7,7 +7,7 @@ import bb from "../assets/bb.jpeg";
 import bbb from "../assets/bbb.jpeg";
 import cc from "../assets/cc.jpg";
 
-function RoomSuite() {
+function Dining() {
   return (
     <div className="space-y-12 p-4">
       <div>
@@ -91,4 +91,4 @@ function RoomSuite() {
   );
 }
 
-export default RoomSuite;
+export default Dining;
