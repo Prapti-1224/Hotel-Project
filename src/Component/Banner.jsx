@@ -40,16 +40,6 @@ export default function BannerSlide() {
   );
   }
 
-//   return (
 
-//     <div className="">
-//       <div className="w-550 h-250 ">
-//         <img src={b} alt="Banner" className="w-550 h-250 " />
-//       </div>
-//     </div>
-//   );
-// }
-
-// export default Banner;
 
 
