@@ -1,7 +1,7 @@
 import React from "react";
 import RoomSuite from "../Component/RoomSuite";
 
-function About() {
+function Room() {
   return (
     <div>
       <Dining />
@@ -9,4 +9,4 @@ function About() {
   );
 }
 
-export default About;
+export default Room;

@@ -1,7 +1,7 @@
 import React from "react";
 import Service from "../Component/Service";
 
-function About() {
+function service() {
   return (
     <div>
       <Service />
@@ -9,4 +9,4 @@ function About() {
   );
 }
 
-export default About;
+export default Service;

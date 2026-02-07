@@ -26,7 +26,7 @@ function Dining() {
             className="w-130 h-70 object-cover rounded-xl shadow-md"
           />
           <h1 className="font-bold text-3xl text-[#5A4634] text-center">
-            Egg{" "}
+            Egg
           </h1>
         </div>
 
