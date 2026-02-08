@@ -4,7 +4,7 @@ import RoomSuite from "../Component/RoomSuite";
 function Room() {
   return (
     <div>
-      <Dining />
+      <RoomSuite />
     </div>
   );
 }
