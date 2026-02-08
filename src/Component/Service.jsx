@@ -1,27 +1,3 @@
-// import React from "react";
-// import { FaConciergeBell } from "react-icons/fa";
-
-
-// function Service() {  
-//   return (
-//     <div className="flex items-center gap-3">
-//       <FaConciergeBell className="text-3xl text-[#5A4634]" />
-
-//       <h1 className="font-bold text-3xl text-[#5A4634] ">
-//         Great for your stay
-//       </h1>
-//       <p>
-//         3 restaurants Spa and wellness centre Parking Free WiFi Fitness centre
-//         Airport shuttle Room service BBQ facilities Non-smoking rooms Facilities
-//         for disabled guests
-//       </p>
-//     </div>
-//   );
-// }
-
-// export default Service;
-
-
 import React from "react";
 import {
   FaCheck,
@@ -34,7 +10,7 @@ function Service() {
   return (
     <div className="container mx-auto px-6 py-10">
       <div className="grid grid-cols-1 md:grid-cols-3 gap-10">
-        {/* Great for your stay */}
+       
         <div>
           <h2 className="flex items-center gap-2 font-bold text-xl mb-4">
             <FaUser /> Great for your stay
@@ -66,8 +42,6 @@ function Service() {
             </li>
           </ul>
         </div>
-
-        {/* Reception services */}
         <div>
           <h2 className="flex items-center gap-2 font-bold text-xl mb-4">
             <FaConciergeBell /> Reception services
@@ -91,8 +65,6 @@ function Service() {
           </ul>
 
         </div>
-
-        {/* Pool */}
         <div>
           <h2 className="flex items-center gap-2 font-bold text-xl mb-4">
             <FaSwimmingPool /> Outdoor swimming pool
